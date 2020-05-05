@@ -49,7 +49,7 @@ TCA1:
 
 
 4. Program the project to the board: select *AVR-DA_LED_blink_PWM* project and click *Start Without Debugging*:
-<br><img src="images/AVR-DA_led_blink_pwm_program.png" width="500">
+<br><img src="images/AVR-DA_led_blink_pwm_Program.png" width="500">
 
 Demo:
 <br><img src="images/AVR-DA_led_blink_pwm.gif" width="500">
