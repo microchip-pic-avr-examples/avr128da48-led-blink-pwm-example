@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.studio.project.avr128da48-led-blink-pwm-example",
-        "version": "1.0.4",
+        "version": "1.0.5",
         "displayName": "LED blink using PWM",
         "projectName": "avr128da48-led-blink-pwm-example",
         "shortDescription": "This repository contains a Microchip Studio source code example for how generate a PWM using TCA to blink an LED",
